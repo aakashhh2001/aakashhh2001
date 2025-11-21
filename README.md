@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Akash!
+# Hi  👋, I'm Akash!
 
-### 💻 A [Your Job Title/Role, e.g., Full Stack Developer, Data Scientist, Student] from [Your Location]
+### 💻 A passionate Cloud Engineer || DevOps Engineer ||
 
 ---
 # 💫 About Me:
